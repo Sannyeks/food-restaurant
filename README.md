@@ -1,4 +1,4 @@
-# Fresh Food Restaurant. 
+# Fresh Food Restaurant
 Landing page desktop version. 
 
 Created for a restaurant. For review or ordering online.
